@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🙍‍♂️ I am Lucas. I come from The Netherlands, where the people call me Luuk. This is not a nickname, but rather some semi-official kind of second name.. It's complicated. You can call me whatever you want!
+
+🌐🕐 I am a spatial data scientist who enjoys working with any kind of spatio-temporal data. My main interests are in sustainable mobility, urban planning and data cubes. I write software using mainly R, Python and PostreSQL. Not a lot of my work lives here on GitHub yet. Or actually, it does, but it is hiding.. I hope that will change in the future!
+
+📬 Maybe you want to contact me. For example when you like my work and would like to collaborate. Or when you don't like it.. Or when you just want to chat. Anyway, don't hesitate to shoot me a message, for example on [twitter](https://twitter.com/LuukvanderMeer).
+
+Outside of data science, there are also other things I like. For example, riding my bike 🚲, going out hiking 🏕️ and playing the guitar 🎸.
+
 <!--
 **luukvdmeer/luukvdmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
